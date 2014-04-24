@@ -1,0 +1,4 @@
+QIrc
+====
+
+Little irc client
